@@ -15,7 +15,7 @@ Windwos下，Json数组转Excel工具
 
 单击【转为Excel】按钮，右侧以表格方式展示数据（自动在最左侧增加id列），如下图所示
 
-![convert](doc\imgs\convert.png)
+<img src="doc\imgs\convert.png" alt="opened" style="zoom:75%;" />
 
 单击【保存Excel】按钮，在Json文件同目录下创建同名的excel文件（保存文件不含自增Id列），如下图所示
 
