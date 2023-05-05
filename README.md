@@ -1,6 +1,9 @@
 # JsonToExcel
 Windwos下，Json数组转Excel工具
 
+可执行版本(需安装.net framework4.7.2+)[下载地址](https://github.com/sangplus/JsonToExcel/blob/main/Release/JsonToExcel_1.0.0.zip)。
+
+
 运行【JsonToExcel.exe】，如下图所示
 
 <img src="doc\imgs\form1.png" alt="打开界面" style="zoom:75%;" />
